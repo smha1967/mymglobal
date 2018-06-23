@@ -1,0 +1,2 @@
+# mymglobal
+MYM Root repository
